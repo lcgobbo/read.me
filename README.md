@@ -6,6 +6,7 @@
 
 This README has the objetive of presenting a good documentation refering to projects on GITHUB.
 <br>
+
 <h1 align="left">It will be presented: </h1>
 
 - Badges
@@ -16,6 +17,7 @@ This README has the objetive of presenting a good documentation refering to proj
 [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/) [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/) [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 
 <br>
+
 ## Content menu
 
 <ul>
@@ -23,5 +25,27 @@ This README has the objetive of presenting a good documentation refering to proj
     <li><a href="technolgy"</a>Technology</li>
 </ul> 
 
+<br>
+
 ## :rocket: Project Status
 <h4>In Progress</h4>
+
+<br>
+
+## Features:
+
+- [ ] User sign up
+- [ ] Client sign up
+
+<br>
+
+
+## Technology
+
+The following technologys were used on this project:
+
+- [Dotnet](https://dotnet.microsoft.com/pt-br/download/dotnet/6.0)
+- [C#](https://dotnet.microsoft.com/pt-br/download/dotnet/6.0)
+- [RabbitMQ](https://www.rabbitmq.com/)
+- [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-
+downloads)
