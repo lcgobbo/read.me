@@ -7,7 +7,7 @@
 This README has the objective of presenting a good documentation refering to projects on GITHUB.
 <br>
 
-<h1 ❗ align="left">It will be presented: </h1>
+<h1 align="left">❕It will be presented: </h1>
 
 - Badges
 - Content Menu
