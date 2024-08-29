@@ -4,7 +4,7 @@
 
 <h1 id="projectdescription" align="center" README Pattern </h1>
 
-This README has the objetive of presenting a good documentation refering to projects on GITHUB.
+This README has the objective of presenting a good documentation refering to projects on GITHUB.
 <br>
 
 <h1 align="left">It will be presented: </h1>
