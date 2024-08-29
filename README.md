@@ -25,5 +25,27 @@ This README has the objective of presenting a good documentation refering to pro
     <li><a href="technolgy"</a>Technology</li>
 </ul> 
 
+<br>
+
 ## :rocket: Project Status
 <h4>In Progress</h4>
+
+<br>
+
+## Features:
+
+- [ ] User sign up
+- [ ] Client sign up
+
+<br>
+
+
+## Technology
+
+The following technologys were used on this project:
+
+- [Dotnet](https://dotnet.microsoft.com/pt-br/download/dotnet/6.0)
+- [C#](https://dotnet.microsoft.com/pt-br/download/dotnet/6.0)
+- [RabbitMQ](https://www.rabbitmq.com/)
+- [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-
+downloads)
