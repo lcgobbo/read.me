@@ -34,8 +34,8 @@ This README has the objective of presenting a good documentation refering to pro
 
 ## Features:
 
-- [ ] User sign up
-- [ ] Client sign up
+- [X] User sign up
+- [X] Client sign up
 
 <br>
 
